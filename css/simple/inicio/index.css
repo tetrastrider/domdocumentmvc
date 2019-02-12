@@ -1,0 +1,7 @@
+.ultimas{
+    display: block;
+    height: 10vw;
+    width: 58vw;
+    border: 5px solid #eaeaea;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.7);
+}
